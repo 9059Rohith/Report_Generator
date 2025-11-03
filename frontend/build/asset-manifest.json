@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/report_bot/static/css/main.d940b179.css",
+    "main.js": "/report_bot/static/js/main.55f93d70.js",
+    "index.html": "/report_bot/index.html",
+    "main.d940b179.css.map": "/report_bot/static/css/main.d940b179.css.map",
+    "main.55f93d70.js.map": "/report_bot/static/js/main.55f93d70.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d940b179.css",
+    "static/js/main.55f93d70.js"
+  ]
+}

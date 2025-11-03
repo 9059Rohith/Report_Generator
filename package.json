@@ -1,0 +1,12 @@
+{
+  "name": "chatbot-report-generator",
+  "version": "1.0.0",
+  "homepage": "https://9059Rohith.github.io/report_bot",
+  "scripts": {
+    "predeploy": "cd frontend && npm run build",
+    "deploy": "gh-pages -d frontend/build -r https://github.com/9059Rohith/report_bot.git"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
