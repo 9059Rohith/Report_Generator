@@ -363,3 +363,4 @@ If you find this project useful, please consider:
 **Built with ❤️ for better chatbot analytics and insights**
 
 *Made possible by Groq API, React, and the open-source community*
+
