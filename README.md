@@ -5,7 +5,7 @@ A full-stack chatbot conversation analysis platform built with React + Vite fron
 ## ✨ Features
 
 - 🤖 **AI-Powered Analysis** - Leverages Groq API with LLaMA models for intelligent conversation insights
-- 📊 **Comprehensive Reports** - Generate detailed analytics from chatbot conversations
+- 📊 **Comprehensive Reports** - Generate detailed analytics from chatbot conversation
 - 🔐 **Secure Authentication** - User authentication and authorization system
 - ⚡ **Fast Performance** - Built with Vite for lightning-fast development and production builds
 - 💬 **Interactive Chat Interface** - Real-time chatbot interaction and testing
@@ -363,4 +363,5 @@ If you find this project useful, please consider:
 **Built with ❤️ for better chatbot analytics and insights**
 
 *Made possible by Groq API, React, and the open-source community*
+
 
