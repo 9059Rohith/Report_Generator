@@ -1,4 +1,4 @@
-# 🧠💬 AI-Powered Chatbot Report Generator
+# 🧠 AI-Powered Chatbot Report Generator
 
 A full-stack chatbot conversation analysis platform built with React + Vite frontend and Node.js backend. Generate insightful reports from chatbot conversations using Groq API with LLaMA models, featuring secure authentication, real-time analytics, and flexible export options.
 
@@ -363,5 +363,6 @@ If you find this project useful, please consider:
 **Built with ❤️ for better chatbot analytics and insights**
 
 *Made possible by Groq API, React, and the open-source community*
+
 
 
